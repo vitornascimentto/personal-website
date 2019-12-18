@@ -24,6 +24,7 @@ projects:
   exclude:
     forks: true
     projects:
+      - NodeJS
     # - repo-name
 
 social_media:
